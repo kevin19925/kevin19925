@@ -42,7 +42,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin19925&theme=redical&hide_border=true&area=true" alt="activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin19925&theme=radical&hide_border=true&area=true" alt="activity" />
 
 <br/>
 
