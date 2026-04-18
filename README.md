@@ -8,7 +8,7 @@
 
 ### Sobre mí
 
-Soy estudiante de la **Escuela Politécnica Nacional (EPN)**. Los repositorios de este perfil **documentan de forma sintética** mi avance en la carrera—principalmente **laboratorios, entregables y ejercicios de práctica**—a partir de un conjunto **aún acotado** de proyectos públicos. **No he concluido la titulación**; continúo en **formación**, priorizando la revisión del trabajo, la corrección de errores y la **consolidación gradual** de competencias. Me interesa **aprender con constancia** y **reforzar mis habilidades** con cada repositorio que voy sumando.
+Soy estudiante de la **Escuela Politécnica Nacional (EPN)**. Estos repositorios **resumen mi avance** en la carrera (laboratorios, entregables y práctica), aún con un **portafolio acotado**. **No he concluido la titulación**; sigo en **formación**, con foco en corregir, consolidar y **mejorar mis competencias** en cada proyecto.
 
 <br/>
 
