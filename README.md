@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e3a8a,75:1e40af,100:0c4a6e&height=145&section=header&text=Kevin&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Estudiante%20de%20ingenieri%CC%81a%20%C2%B7%20Escuela%20Polite%CC%81cnica%20Nacional%20%28EPN%29&descAlignY=60&descSize=15&fontAlignY=38" alt="Cabecera de perfil" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&size=21&duration=3400&pause=1100&color=1E40AF&center=true&vCenter=true&width=580&height=46&lines=EPN%20%C2%B7%20Quito%2C%20Ecuador;Aprendiendo%20desarrollo%20de%20software%20paso%20a%20paso;Proyectos%20de%20pra%CC%81ctica%20y%20estudio" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&size=21&duration=3400&pause=1100&color=1E40AF&center=true&vCenter=true&width=580&height=46&lines=EPN%20%C2%B7%20Quito%2C%20Ecuador;Siempre%20aprendiendo%20algo%20nuevo;Construyendo%20habilidades%20d%C3%ADa%20a%20d%C3%ADa" alt="Texto animado" />
 
 <br/>
 
 ### Sobre mí
 
-Soy **estudiante** en la **Escuela Politécnica Nacional (EPN)**. Este perfil es para **aprender en público**: prácticas, tareas y proyectos personales. Aún **no me he graduado**; estoy en formación como **futuro ingeniero**, con foco en orden, constancia y mejorar cada commit.
+Soy estudiante en la **Escuela Politécnica Nacional (EPN)** y lo que más me mueve es **seguir aprendiendo**: me gusta descubrir herramientas, entender cómo funcionan las cosas y **no quedarme quieto**. Este perfil es mi forma de **aprender en público**—prácticas, tareas y proyectos donde comparto avances, errores y lo que voy entendiendo en el camino. **Aún no me gradúo**; estoy en formación como **futuro ingeniero**, con curiosidad, constancia y ganas reales de **profundizar cada día** (sí, también **commit a commit**).
 
 <br/>
 
