@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e3a8a,75:1e40af,100:0c4a6e&height=145&section=header&text=Kevin&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Estudiante%20de%20ingenieri%CC%81a%20%C2%B7%20Escuela%20Polite%CC%81cnica%20Nacional%20%28EPN%29&descAlignY=60&descSize=15&fontAlignY=38" alt="Cabecera de perfil" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&size=21&duration=3200&pause=1000&color=1E40AF&center=true&vCenter=true&width=560&height=44&lines=EPN%20%C2%B7%20Quito%2C%20Ecuador;Proyectos%20de%20mi%20carrera;Aprender%20tambi%C3%A9n%20de%20los%20errores" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&size=20&duration=3600&pause=1100&color=1E40AF&center=true&vCenter=true&width=620&height=42&lines=Formacio%CC%81n%20acade%CC%81mica%20%C2%B7%20EPN;Aprendizaje%20continuo%20y%20mejora%20de%20competencias" alt="Texto animado" />
 
 <br/>
 
 ### Sobre mí
 
-Estudiante **EPN**. Estos repos son **mi avance en la carrera** (labs, entregables, pruebas). **Aún no me gradúo**: sigo formándome, corrigiendo y aprendiendo **poco a poco**.
+Soy estudiante de la **Escuela Politécnica Nacional (EPN)**. Los repositorios de este perfil **documentan de forma sintética** mi avance en la carrera—principalmente **laboratorios, entregables y ejercicios de práctica**—a partir de un conjunto **aún acotado** de proyectos públicos. **No he concluido la titulación**; continúo en **formación**, priorizando la revisión del trabajo, la corrección de errores y la **consolidación gradual** de competencias. Me interesa **aprender con constancia** y **reforzar mis habilidades** con cada repositorio que voy sumando.
 
 <br/>
 
