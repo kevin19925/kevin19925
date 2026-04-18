@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,25:EC4899,55:F59E0B,85:06B6D4&height=165&section=header&text=Kevin&fontSize=52&fontColor=fff&animation=heartBeat&desc=Dev%20%7C%20Animaciones%20%7C%20Color%20%F0%9F%8E%AC&descAlignY=58&descSize=18" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=EC4899&center=true&vCenter=true&width=520&height=55&lines=Bienvenido+a+mi+perfil+%F0%9F%91%8B;Code+%2B+Caf%C3%A9+%2B+Curiosidad;Siempre+aprendiendo+algo+nuevo...;TypeScript+%E2%80%A2+Node+%E2%80%A2+React+%E2%80%A2+.NET+%E2%80%A2+SQL" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2800&pause=900&color=EC4899&center=true&vCenter=true&width=520&height=55&lines=Bienvenido+a+mi+perfil+%F0%9F%91%8B;Code+%2B+Caf%C3%A9+%2B+Curiosidad;Siempre+aprendiendo+algo+nuevo...;TypeScript+%E2%80%A2+Node+%E2%80%A2+React+%E2%80%A2+.NET+%E2%80%A2+SQL" alt="typing" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=18&duration=3500&pause=700&color=06B6D4&center=true&vCenter=true&width=480&height=40&lines=%E2%9A%A1+Construyendo+herramientas+%C3%BAtiles;%F0%9F%92%BB+Backend+%2B+Frontend+%2B+Datos;%F0%9F%8C%88+Gracias+por+pasarte+%E2%80%94+%C2%A1saludos%21" alt="typing2" />
+<img src="https://readme-typing-svg.demolab.com/?font=Roboto&size=18&duration=3500&pause=700&color=06B6D4&center=true&vCenter=true&width=480&height=40&lines=%E2%9A%A1+Construyendo+herramientas+%C3%BAtiles;%F0%9F%92%BB+Backend+%2B+Frontend+%2B+Datos;%F0%9F%8C%88+Gracias+por+pasarte+%E2%80%94+%C2%A1saludos%21" alt="typing2" />
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=10,12,17,22,24&height=40&section=header&text=Logros+%26+Stats&fontSize=22&fontColor=fff&animation=twinkling&stroke=000&strokeWidth=1" alt="section" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=10,12,17,22,24&height=44&section=header&text=Logros+%26+Stats&fontSize=22&fontColor=fff&animation=twinkling&stroke=1E1B4B&strokeWidth=2" alt="section" />
 
 <br/>
 
@@ -54,7 +54,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1200&color=A855F7&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%91%89+Explora+mis+repos+abajo+%F0%9F%91%89" alt="typing-footer" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2000&pause=1200&color=A855F7&center=true&vCenter=true&width=420&height=40&lines=%F0%9F%91%89+Explora+mis+repos+abajo+%F0%9F%91%89" alt="typing-footer" />
 
 [![GitHub](https://img.shields.io/badge/Mi%20GitHub-181717?style=for-the-badge&logo=github&logoColor=FF1493)](https://github.com/kevin19925)
 
