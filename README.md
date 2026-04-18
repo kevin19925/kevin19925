@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e3a8a,75:1e40af,100:0c4a6e&height=145&section=header&text=Kevin&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Estudiante%20de%20ingenieri%CC%81a%20%C2%B7%20Escuela%20Polite%CC%81cnica%20Nacional%20%28EPN%29&descAlignY=60&descSize=15&fontAlignY=38" alt="Cabecera de perfil" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e3a8a,75:1e40af,100:0c4a6e&height=145&section=header&text=Kevin&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Estudiante%20%C2%B7%20Escuela%20Polite%CC%81cnica%20Nacional%20%28EPN%29&descAlignY=60&descSize=15&fontAlignY=38" alt="Cabecera de perfil" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&size=20&duration=3600&pause=1100&color=1E40AF&center=true&vCenter=true&width=620&height=42&lines=Formacio%CC%81n%20acade%CC%81mica%20%C2%B7%20EPN;Trabajo%20y%20aprendizaje%20continuo" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&size=21&duration=3200&pause=1000&color=1E40AF&center=true&vCenter=true&width=560&height=44&lines=EPN%20%C2%B7%20Desarrollo%20de%20software;Diario%20de%20mi%20carrera;Retos%20y%20aprendizaje%20continuo" alt="Texto animado" />
 
 <br/>
 
 ### Sobre mí
 
-Soy estudiante de la **Escuela Politécnica Nacional (EPN)**. Los repositorios de este perfil **documentan de forma sintética** mi avance en la carrera, a partir de un conjunto **aún acotado** de proyectos públicos. **No he concluido la titulación**; continúo en **formación**. **Aun cuando ya desarrollo trabajo profesional**, **mantengo el interés por seguir aprendiendo** y por **reforzar mis habilidades** con cada repositorio que voy sumando.
+¡Hola! 👋 Soy estudiante de la **EPN** y entusiasta del **desarrollo**. Este perfil es básicamente el **diario de mi evolución** en la carrera; aquí voy subiendo los proyectos que marcan mi camino. Aunque ya estoy **trabajando en el mundo profesional**, sigo en **formación** y con las **ganas de aprender intactas**. ¡Cada repo es un nuevo reto superado!
 
 <br/>
 
